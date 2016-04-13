@@ -18,3 +18,6 @@ See the Epsilon theme in the Franklin repo @ [`/franklin/themes/epsilon` »](htt
 See the Epsilon sample book in the bitbooks archive @ [`bitbooks.github.io/example-book-epsilon` »](http://bitbooks.github.io/example-book-epsilon).
 
 
+## Deplyment
+We use the gem jgd with travis-ci to automtically deploy
+https://github.com/yegor256/jekyll-github-deploy
